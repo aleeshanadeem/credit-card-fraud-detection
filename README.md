@@ -1,6 +1,6 @@
 # 💳 Credit Card Fraud Detection using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 Credit card fraud is one of the most significant challenges faced by financial institutions. Detecting fraudulent transactions accurately can help reduce financial losses and improve customer security.
 
