@@ -8,7 +8,7 @@ This project applies machine learning techniques to identify potentially fraudul
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze transaction patterns.
 - Explore feature relationships through EDA.
